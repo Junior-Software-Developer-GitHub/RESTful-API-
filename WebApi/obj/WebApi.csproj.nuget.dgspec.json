@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/codemancystudio/Documents/RestfulAPI/WebApi/WebApi.csproj": {}
+  },
+  "projects": {
+    "/home/codemancystudio/Documents/RestfulAPI/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/codemancystudio/Documents/RestfulAPI/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/home/codemancystudio/Documents/RestfulAPI/Core/Core.csproj",
+        "packagesPath": "/home/codemancystudio/.nuget/packages/",
+        "outputPath": "/home/codemancystudio/Documents/RestfulAPI/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/codemancystudio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.411/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/codemancystudio/Documents/RestfulAPI/Data/Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/codemancystudio/Documents/RestfulAPI/Data/Data.csproj",
+        "projectName": "Data",
+        "projectPath": "/home/codemancystudio/Documents/RestfulAPI/Data/Data.csproj",
+        "packagesPath": "/home/codemancystudio/.nuget/packages/",
+        "outputPath": "/home/codemancystudio/Documents/RestfulAPI/Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/codemancystudio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/codemancystudio/Documents/RestfulAPI/Core/Core.csproj": {
+                "projectPath": "/home/codemancystudio/Documents/RestfulAPI/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.411/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/codemancystudio/Documents/RestfulAPI/WebApi/WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/codemancystudio/Documents/RestfulAPI/WebApi/WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "/home/codemancystudio/Documents/RestfulAPI/WebApi/WebApi.csproj",
+        "packagesPath": "/home/codemancystudio/.nuget/packages/",
+        "outputPath": "/home/codemancystudio/Documents/RestfulAPI/WebApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/codemancystudio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/codemancystudio/Documents/RestfulAPI/Core/Core.csproj": {
+                "projectPath": "/home/codemancystudio/Documents/RestfulAPI/Core/Core.csproj"
+              },
+              "/home/codemancystudio/Documents/RestfulAPI/Data/Data.csproj": {
+                "projectPath": "/home/codemancystudio/Documents/RestfulAPI/Data/Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.411/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

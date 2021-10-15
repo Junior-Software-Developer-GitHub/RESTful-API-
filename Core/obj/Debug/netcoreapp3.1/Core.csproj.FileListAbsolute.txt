@@ -1,0 +1,9 @@
+/home/codemancystudio/Documents/RestfulAPI/Core/bin/Debug/netcoreapp3.1/Core.deps.json
+/home/codemancystudio/Documents/RestfulAPI/Core/bin/Debug/netcoreapp3.1/Core.dll
+/home/codemancystudio/Documents/RestfulAPI/Core/bin/Debug/netcoreapp3.1/Core.pdb
+/home/codemancystudio/Documents/RestfulAPI/Core/obj/Debug/netcoreapp3.1/Core.csprojAssemblyReference.cache
+/home/codemancystudio/Documents/RestfulAPI/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfoInputs.cache
+/home/codemancystudio/Documents/RestfulAPI/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfo.cs
+/home/codemancystudio/Documents/RestfulAPI/Core/obj/Debug/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache
+/home/codemancystudio/Documents/RestfulAPI/Core/obj/Debug/netcoreapp3.1/Core.dll
+/home/codemancystudio/Documents/RestfulAPI/Core/obj/Debug/netcoreapp3.1/Core.pdb

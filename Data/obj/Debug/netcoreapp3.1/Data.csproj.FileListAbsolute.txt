@@ -1,0 +1,12 @@
+/home/codemancystudio/Documents/RestfulAPI/Data/bin/Debug/netcoreapp3.1/Data.deps.json
+/home/codemancystudio/Documents/RestfulAPI/Data/bin/Debug/netcoreapp3.1/Data.dll
+/home/codemancystudio/Documents/RestfulAPI/Data/bin/Debug/netcoreapp3.1/Data.pdb
+/home/codemancystudio/Documents/RestfulAPI/Data/bin/Debug/netcoreapp3.1/Core.dll
+/home/codemancystudio/Documents/RestfulAPI/Data/bin/Debug/netcoreapp3.1/Core.pdb
+/home/codemancystudio/Documents/RestfulAPI/Data/obj/Debug/netcoreapp3.1/Data.csprojAssemblyReference.cache
+/home/codemancystudio/Documents/RestfulAPI/Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfoInputs.cache
+/home/codemancystudio/Documents/RestfulAPI/Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfo.cs
+/home/codemancystudio/Documents/RestfulAPI/Data/obj/Debug/netcoreapp3.1/Data.csproj.CoreCompileInputs.cache
+/home/codemancystudio/Documents/RestfulAPI/Data/obj/Debug/netcoreapp3.1/Data.csproj.CopyComplete
+/home/codemancystudio/Documents/RestfulAPI/Data/obj/Debug/netcoreapp3.1/Data.dll
+/home/codemancystudio/Documents/RestfulAPI/Data/obj/Debug/netcoreapp3.1/Data.pdb

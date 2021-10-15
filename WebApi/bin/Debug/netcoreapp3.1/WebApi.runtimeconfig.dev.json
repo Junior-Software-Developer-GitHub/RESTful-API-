@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/codemancystudio/.dotnet/store/|arch|/|tfm|",
+      "/home/codemancystudio/.nuget/packages"
+    ]
+  }
+}

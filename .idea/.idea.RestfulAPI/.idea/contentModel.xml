@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_RestfulAPI.1037709909.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Core" t="IncludeRecursive">
+        <e p="Core.csproj" t="IncludeRecursive" />
+        <e p="IUnitOfWork.cs" t="Include" />
+        <e p="Interfaces" t="Include">
+          <e p="Repositories" t="Include">
+            <e p="IRepository.cs" t="Include" />
+            <e p="IStudentRepository.cs" t="Include" />
+            <e p="ITeacherRepository.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Models" t="Include">
+          <e p="Student.cs" t="Include" />
+          <e p="Teacher.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Data" t="IncludeRecursive">
+        <e p="Data.csproj" t="IncludeRecursive" />
+        <e p="Repositories" t="Include">
+          <e p="Repository.cs" t="Include" />
+          <e p="StudentRepository.cs" t="Include" />
+          <e p="TeacherRepository.cs" t="Include" />
+        </e>
+        <e p="UnitOfWork.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="RestfulAPI.sln" t="IncludeFlat" />
+      <e p="WebApi" t="IncludeRecursive">
+        <e p="Controllers" t="Include">
+          <e p="StudentController.cs" t="Include" />
+          <e p="TeacherController.cs" t="Include" />
+        </e>
+        <e p="DatabaseContext.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WebApi.csproj" t="IncludeRecursive" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="WebApi.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
