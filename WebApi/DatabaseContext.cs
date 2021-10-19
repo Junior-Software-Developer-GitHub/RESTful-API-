@@ -20,10 +20,11 @@ namespace WebApi
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-//            modelBuilder.Entity<Student>().hash;
+            modelBuilder.Entity<Student>().HasKey(e => e.Id);
+            modelBuilder.Entity<Teacher>().HasKey(e => e.Id);
         }
-        
-        
+
+
 
     }
 }

@@ -7,3 +7,12 @@
 /home/codemancystudio/Documents/RestfulAPI/Core/obj/Debug/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache
 /home/codemancystudio/Documents/RestfulAPI/Core/obj/Debug/netcoreapp3.1/Core.dll
 /home/codemancystudio/Documents/RestfulAPI/Core/obj/Debug/netcoreapp3.1/Core.pdb
+C:\C#\RESTful-API-\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\C#\RESTful-API-\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\C#\RESTful-API-\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\C#\RESTful-API-\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\C#\RESTful-API-\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\C#\RESTful-API-\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\C#\RESTful-API-\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\C#\RESTful-API-\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\C#\RESTful-API-\Core\obj\Debug\netcoreapp3.1\Core.pdb

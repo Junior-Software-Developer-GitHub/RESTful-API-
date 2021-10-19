@@ -10,11 +10,13 @@ namespace WebApi.Controllers
     public class TeacherController
     {
         private readonly IUnitOfWork _unitOfWork;
+        private readonly DatabaseContext _dbContext;
 
 
         public TeacherController(DatabaseContext context)
         {
-            _unitOfWork = new UnitOfWork(context);
+            _dbContext = context;
+            _unitOfWork = new UnitOfWork(_dbContext);
         }
         
         [HttpGet]

@@ -1,29 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/codemancystudio/Documents/RestfulAPI/WebApi/WebApi.csproj": {}
+    "C:\\C#\\RESTful-API-\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "/home/codemancystudio/Documents/RestfulAPI/Core/Core.csproj": {
+    "C:\\C#\\RESTful-API-\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/codemancystudio/Documents/RestfulAPI/Core/Core.csproj",
+        "projectUniqueName": "C:\\C#\\RESTful-API-\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "/home/codemancystudio/Documents/RestfulAPI/Core/Core.csproj",
-        "packagesPath": "/home/codemancystudio/.nuget/packages/",
-        "outputPath": "/home/codemancystudio/Documents/RestfulAPI/Core/obj/",
+        "projectPath": "C:\\C#\\RESTful-API-\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\lukaa\\.nuget\\packages\\",
+        "outputPath": "C:\\C#\\RESTful-API-\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codemancystudio/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lukaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -35,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -56,33 +60,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.411/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/codemancystudio/Documents/RestfulAPI/Data/Data.csproj": {
+    "C:\\C#\\RESTful-API-\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/codemancystudio/Documents/RestfulAPI/Data/Data.csproj",
+        "projectUniqueName": "C:\\C#\\RESTful-API-\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "/home/codemancystudio/Documents/RestfulAPI/Data/Data.csproj",
-        "packagesPath": "/home/codemancystudio/.nuget/packages/",
-        "outputPath": "/home/codemancystudio/Documents/RestfulAPI/Data/obj/",
+        "projectPath": "C:\\C#\\RESTful-API-\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\lukaa\\.nuget\\packages\\",
+        "outputPath": "C:\\C#\\RESTful-API-\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codemancystudio/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lukaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/home/codemancystudio/Documents/RestfulAPI/Core/Core.csproj": {
-                "projectPath": "/home/codemancystudio/Documents/RestfulAPI/Core/Core.csproj"
+              "C:\\C#\\RESTful-API-\\Core\\Core.csproj": {
+                "projectPath": "C:\\C#\\RESTful-API-\\Core\\Core.csproj"
               }
             }
           }
@@ -95,6 +102,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -110,36 +118,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.411/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/codemancystudio/Documents/RestfulAPI/WebApi/WebApi.csproj": {
+    "C:\\C#\\RESTful-API-\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/codemancystudio/Documents/RestfulAPI/WebApi/WebApi.csproj",
+        "projectUniqueName": "C:\\C#\\RESTful-API-\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "/home/codemancystudio/Documents/RestfulAPI/WebApi/WebApi.csproj",
-        "packagesPath": "/home/codemancystudio/.nuget/packages/",
-        "outputPath": "/home/codemancystudio/Documents/RestfulAPI/WebApi/obj/",
+        "projectPath": "C:\\C#\\RESTful-API-\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\lukaa\\.nuget\\packages\\",
+        "outputPath": "C:\\C#\\RESTful-API-\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codemancystudio/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lukaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/home/codemancystudio/Documents/RestfulAPI/Core/Core.csproj": {
-                "projectPath": "/home/codemancystudio/Documents/RestfulAPI/Core/Core.csproj"
+              "C:\\C#\\RESTful-API-\\Core\\Core.csproj": {
+                "projectPath": "C:\\C#\\RESTful-API-\\Core\\Core.csproj"
               },
-              "/home/codemancystudio/Documents/RestfulAPI/Data/Data.csproj": {
-                "projectPath": "/home/codemancystudio/Documents/RestfulAPI/Data/Data.csproj"
+              "C:\\C#\\RESTful-API-\\Data\\Data.csproj": {
+                "projectPath": "C:\\C#\\RESTful-API-\\Data\\Data.csproj"
               }
             }
           }
@@ -152,6 +163,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
@@ -160,6 +172,12 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -188,7 +206,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.411/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

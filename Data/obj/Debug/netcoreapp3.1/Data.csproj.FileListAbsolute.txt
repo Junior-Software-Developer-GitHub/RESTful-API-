@@ -10,3 +10,15 @@
 /home/codemancystudio/Documents/RestfulAPI/Data/obj/Debug/netcoreapp3.1/Data.csproj.CopyComplete
 /home/codemancystudio/Documents/RestfulAPI/Data/obj/Debug/netcoreapp3.1/Data.dll
 /home/codemancystudio/Documents/RestfulAPI/Data/obj/Debug/netcoreapp3.1/Data.pdb
+C:\C#\RESTful-API-\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\C#\RESTful-API-\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\C#\RESTful-API-\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\C#\RESTful-API-\Data\bin\Debug\netcoreapp3.1\Core.dll
+C:\C#\RESTful-API-\Data\bin\Debug\netcoreapp3.1\Core.pdb
+C:\C#\RESTful-API-\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\C#\RESTful-API-\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\C#\RESTful-API-\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\C#\RESTful-API-\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\C#\RESTful-API-\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\C#\RESTful-API-\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\C#\RESTful-API-\Data\obj\Debug\netcoreapp3.1\Data.pdb
